@@ -163,7 +163,14 @@
    * On window load.
    * --------------------------------------------------------------------------- */
 
+<<<<<<< HEAD
+  $(window).load(function(){
+
+    // Enable smooth scrolling with mouse wheel
+    // smoothScroll(1.3, 220);
+=======
   $(window).on('load', function() {
+>>>>>>> fa923fc46a94f5a9e513c9bc28001108c9db427d
 
     if (window.location.hash) {
       // When accessing homepage from another page and `#top` hash is set, show top of page (no hash).

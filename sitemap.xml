@@ -1,64 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://stes.github.io/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://stes.github.io/project/eace04/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://stes.github.io/project/eace04/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://stes.github.io/project/db017/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://stes.github.io/project/db017/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://stes.github.io/publication/compressive_sensing/</loc>
+      <lastmod>2016-04-26T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://stes.github.io/publication/compressive_sensing/</loc>
-    <lastmod>2016-04-26T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://stes.github.io/publication/bachelor_thesis/</loc>
+      <lastmod>2016-04-26T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://stes.github.io/publication/bachelor_thesis/</loc>
-    <lastmod>2016-04-26T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://stes.github.io/project/iluminate/</loc>
+      <lastmod>2015-05-31T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://stes.github.io/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://stes.github.io/project/it4kids/</loc>
+      <lastmod>2015-05-31T00:00:00+00:00</lastmod>
+    </url>
+    
   
-  <url>
-    <loc>https://stes.github.io/project/iluminate/</loc>
-    <lastmod>2015-05-31T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://stes.github.io/tags/deep-learning/</loc>
+      <lastmod>2015-05-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://stes.github.io/project/it4kids/</loc>
-    <lastmod>2015-05-31T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://stes.github.io/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://stes.github.io/home/roles/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://stes.github.io/tags/digital-pathology/</loc>
+      <lastmod>2015-05-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://stes.github.io/home/extracurriculars/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://stes.github.io/tags/machine-learning/</loc>
+      <lastmod>2015-05-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://stes.github.io/home/publications/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://stes.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
-  <url>
-    <loc>https://stes.github.io/home/projects/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
+    
+    
+    <url>
+      <loc>https://stes.github.io/publication/</loc>
+      <lastmod>2016-04-26T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.github.io/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>

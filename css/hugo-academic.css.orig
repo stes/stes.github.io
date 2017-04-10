@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   margin-bottom: .5rem;
   line-height: 1.25;
-  color: #333333;
+  color: #313131;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -397,6 +397,9 @@ article {
   animation-delay: 0.15s;
 }
 
+<<<<<<< HEAD
+h3.article-title {
+=======
 .article-container {
   max-width: 760px;
   padding: 1rem 20px 0 20px;
@@ -436,6 +439,11 @@ article {
 .article-header-caption a {
   color: #fff;
   text-decoration: none;
+}
+
+.article-title {
+  font-size: 1.75rem;
+>>>>>>> fa923fc46a94f5a9e513c9bc28001108c9db427d
 }
 
 .article-title a {
