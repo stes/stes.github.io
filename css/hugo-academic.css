@@ -67,7 +67,7 @@ ul, ol, dl {
 
 /* Navigation bar text */
 .navbar-default {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
@@ -75,7 +75,7 @@ ul, ol, dl {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   margin-bottom: .5rem;
   line-height: 1.25;
@@ -90,12 +90,12 @@ h2 {
   font-size: 1.5rem;
 }
 h3 {
-  font-weight: 700;
-  margin-top: 1.5rem;
+  font-weight: 500;
+  margin-top: 1.2rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
-  font-weight: 700;
+  font-weight: 500;
   margin-top: 1rem;
   font-size: 1rem;
 }
@@ -221,7 +221,7 @@ blockquote p:last-child {
 }
 
 .section-heading p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 1.1rem;
   color: #b2b2b2;
@@ -313,6 +313,16 @@ ul.ul-edu li .description p.institution {
   color: rgba(0,0,0,0.6);
 }
 
+ul.ul-edu li .description p.detail {
+  font-size: 0.9rem;
+  color: rgba(0,0,0,0.8);
+}
+
+ul.ul-edu li .description a {
+  font-size: 0.9rem;
+  color: rgba(0,0,0,0.8);
+}
+
 /*************************************************
  *  Sharing
  **************************************************/
@@ -371,8 +381,7 @@ article {
   animation-delay: 0.15s;
 }
 
-.article-title {
-  font-size: 1.75rem;
+h3.article-title {
 }
 
 .article-title a {
@@ -478,13 +487,14 @@ article {
 }
 
 .pub-list-item .pub-abstract {
-  font-size: 1rem;
+  font-style: normal;
+  font-size: 0.9rem;
+  color: rgba(0,0,0,0.6);
 }
 
 .pub-list-item .pub-authors {
-  line-height: normal;
   font-style: normal;
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #3170A5;
 }
 
