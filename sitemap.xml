@@ -4,8 +4,8 @@
     
     
     <url>
-      <loc>https://stes.github.io/project/eace04/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>https://stes.github.io/publication/driverless_big_techday/</loc>
+      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -13,6 +13,30 @@
     
     <url>
       <loc>https://stes.github.io/project/db017/</loc>
+      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.github.io/publication/winterakademie/</loc>
+      <lastmod>2017-04-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.github.io/project/msne/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.github.io/project/eace04/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -36,6 +60,14 @@
     
     
     <url>
+      <loc>https://stes.github.io/project/campus/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://stes.github.io/project/iluminate/</loc>
       <lastmod>2015-05-31T00:00:00+00:00</lastmod>
     </url>
@@ -52,6 +84,15 @@
     
     
     <url>
+      <loc>https://stes.github.io/tags/blog/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://stes.github.io/tags/deep-learning/</loc>
       <lastmod>2015-05-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -62,7 +103,7 @@
     
     <url>
       <loc>https://stes.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -88,8 +129,26 @@
     
     
     <url>
+      <loc>https://stes.github.io/tags/munich/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.github.io/tags/neuroengineering/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://stes.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -98,7 +157,16 @@
     
     <url>
       <loc>https://stes.github.io/publication/</loc>
-      <lastmod>2016-04-26T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.github.io/tags/social/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

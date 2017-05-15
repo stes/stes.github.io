@@ -7,8 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
-    <lastBuildDate>Tue, 26 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Driverless from Scratch</title>
+      <link>https://stes.github.io/publication/driverless_big_techday/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/publication/driverless_big_techday/</guid>
+      <description>&lt;p&gt;This talk was given in German on the &lt;a href=&#34;https://www.tngtech.com/tng-ueber-uns/bigtechday/big-techday/&#34;&gt;10th TNG Big Techday&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PageRank and Beyond - How Google Finds Your Needle in the Web’s Haystack</title>
+      <link>https://stes.github.io/publication/winterakademie/</link>
+      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/publication/winterakademie/</guid>
+      <description>&lt;p&gt;This talk was given at the &lt;a href=&#34;http://www.studienstiftung-mainz.de/p/winterakademie.html&#34;&gt;Studienstiftung Winterakademie 2017&lt;/a&gt; in Davos, Switzerland.&lt;/p&gt;
+
+&lt;p&gt;Financial support to participation by: &lt;a href=&#34;https://www.studienstiftung.de/&#34;&gt;Studienstiftung des dt. Volkes (SmP)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Deep Learning Approach to Compressive Sensing</title>

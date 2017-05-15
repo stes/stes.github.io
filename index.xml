@@ -11,22 +11,53 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Driverless from Scratch</title>
+      <link>https://stes.github.io/publication/driverless_big_techday/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/publication/driverless_big_techday/</guid>
+      <description>&lt;p&gt;This talk was given in German on the &lt;a href=&#34;https://www.tngtech.com/tng-ueber-uns/bigtechday/big-techday/&#34;&gt;10th TNG Big Techday&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TUFast Driverless nb017</title>
+      <link>https://stes.github.io/project/db017/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/project/db017/</guid>
+      <description>&lt;p&gt;In an attempt to&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PageRank and Beyond - How Google Finds Your Needle in the Web’s Haystack</title>
+      <link>https://stes.github.io/publication/winterakademie/</link>
+      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/publication/winterakademie/</guid>
+      <description>&lt;p&gt;This talk was given at the &lt;a href=&#34;http://www.studienstiftung-mainz.de/p/winterakademie.html&#34;&gt;Studienstiftung Winterakademie 2017&lt;/a&gt; in Davos, Switzerland.&lt;/p&gt;
+
+&lt;p&gt;Financial support to participation by: &lt;a href=&#34;https://www.studienstiftung.de/&#34;&gt;Studienstiftung des dt. Volkes (SmP)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSNE Blog</title>
+      <link>https://stes.github.io/project/msne/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/project/msne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ecurie Aix eace04/05</title>
       <link>https://stes.github.io/project/eace04/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stes.github.io/project/eace04/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>TUFast Driverless nb017</title>
-      <link>https://stes.github.io/project/db017/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.github.io/project/db017/</guid>
-      <description>&lt;p&gt;In an attempt to&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -44,6 +75,15 @@
       <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stes.github.io/publication/bachelor_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Campus Weggemeinschaft</title>
+      <link>https://stes.github.io/project/campus/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/project/campus/</guid>
       <description></description>
     </item>
     

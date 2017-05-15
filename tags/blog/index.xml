@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Steffen Schneider</title>
+    <link>https://stes.github.io/tags/blog/index.xml</link>
+    <description>Recent content in Blog on Steffen Schneider</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
+    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MSNE Blog</title>
+      <link>https://stes.github.io/project/msne/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/project/msne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Campus Weggemeinschaft</title>
+      <link>https://stes.github.io/project/campus/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/project/campus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
