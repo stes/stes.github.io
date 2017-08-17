@@ -2,21 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Steffen Schneider</title>
-    <link>https://stes.github.io/publication/index.xml</link>
+    <link>https://stes.github.io/publication/</link>
     <description>Recent content in Publications on Steffen Schneider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
-    <lastBuildDate>Fri, 02 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Driverless from Scratch</title>
-      <link>https://stes.github.io/publication/driverless_big_techday/</link>
-      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Context-based Normalization of Histological Stains using Deep Convolutional Features</title>
+      <link>https://stes.github.io/publication/stainnorm/</link>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/publication/driverless_big_techday/</guid>
-      <description>&lt;p&gt;This talk was given in German on the &lt;a href=&#34;https://www.tngtech.com/tng-ueber-uns/bigtechday/big-techday/&#34;&gt;10th TNG Big Techday&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://stes.github.io/publication/stainnorm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Convolutional Signal Transcription for Artifact Removal and Normalization</title>
+      <link>https://stes.github.io/publication/fcn_bernstein/</link>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/publication/fcn_bernstein/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://stes.github.io/img/fig_bernstein.png&#34; alt=&#34;A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve&#34; /&gt;
+&lt;strong&gt;Figure 1&lt;/strong&gt;: A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve&lt;/p&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;[1] Oord, Aaron van den, et al. &amp;quot;Wavenet: A generative model for raw audio.&amp;quot; arXiv preprint arXiv:1609.03499 (2016).
+[2] O&#39;reilly, Christian, et al. &amp;quot;Montreal Archive of Sleep Studies: an open‐access resource for instrument benchmarking and exploratory research.&amp;quot; Journal of sleep research 23.6 (2014): 628-635., 10.1111/jsr.12169
+[3] Gal, Yarin. Uncertainty in deep learning. Diss. PhD thesis, University of Cambridge, 2016.
+[4] Massetani, Roberto, et al. &amp;quot;Alteration of cardiac function in patients with temporal lobe epilepsy: different roles of EEG‐ECG monitoring and spectral analysis of RR variability.&amp;quot; Epilepsia 38.3 (1997): 363-369., 10.1111/j.1528-1157.1997.tb01129.x
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Robust Deep Networks for Medical Data Analysis</title>
+      <link>https://stes.github.io/publication/hbp/</link>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/publication/hbp/</guid>
+      <description>&lt;p&gt;This talk was given in at the 4th HBP Summer School on Future Computing Brain Science and Artificial Intelligence in Obergurgle, Austria.&lt;/p&gt;
 </description>
     </item>
     

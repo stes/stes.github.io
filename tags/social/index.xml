@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social on Steffen Schneider</title>
-    <link>https://stes.github.io/tags/social/index.xml</link>
+    <link>https://stes.github.io/tags/social/</link>
     <description>Recent content in Social on Steffen Schneider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
-    <atom:link href="/tags/social/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/social/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Campus Weggemeinschaft</title>

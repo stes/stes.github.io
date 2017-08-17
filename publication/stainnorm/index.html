@@ -32,11 +32,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://stes.github.io/publication/compressive_sensing/">
+  <link rel="canonical" href="https://stes.github.io/publication/stainnorm/">
 
   
 
-  <title>A Deep Learning Approach to Compressive Sensing | Steffen Schneider</title>
+  <title>Context-based Normalization of Histological Stains using Deep Convolutional Features | Steffen Schneider</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -133,10 +133,10 @@
   
 
   <div class="container pub-title">
-    <h1 itemprop="name">A Deep Learning Approach to Compressive Sensing</h1>
+    <h1 itemprop="name">Context-based Normalization of Histological Stains using Deep Convolutional Features</h1>
     <span class="pub-authors" itemprop="author">
       
-      Steffen Schneider
+      Daniel Bug, Steffen Schneider, Anne Grote, Eva Oswald, Friedrich Feuerhake, Julia Schüler, Dorit Merhof
       
     </span>
     <span class="pull-right">
@@ -145,35 +145,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fstes.github.io%2fpublication%2fcompressive_sensing%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fstes.github.io%2fpublication%2fstainnorm%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=A%20Deep%20Learning%20Approach%20to%20Compressive%20Sensing&amp;url=https%3a%2f%2fstes.github.io%2fpublication%2fcompressive_sensing%2f"
+         href="https://twitter.com/intent/tweet?text=Context-based%20Normalization%20of%20Histological%20Stains%20using%20Deep%20Convolutional%20Features&amp;url=https%3a%2f%2fstes.github.io%2fpublication%2fstainnorm%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fstes.github.io%2fpublication%2fcompressive_sensing%2f&amp;title=A%20Deep%20Learning%20Approach%20to%20Compressive%20Sensing"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fstes.github.io%2fpublication%2fstainnorm%2f&amp;title=Context-based%20Normalization%20of%20Histological%20Stains%20using%20Deep%20Convolutional%20Features"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fstes.github.io%2fpublication%2fcompressive_sensing%2f&amp;title=A%20Deep%20Learning%20Approach%20to%20Compressive%20Sensing"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fstes.github.io%2fpublication%2fstainnorm%2f&amp;title=Context-based%20Normalization%20of%20Histological%20Stains%20using%20Deep%20Convolutional%20Features"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=A%20Deep%20Learning%20Approach%20to%20Compressive%20Sensing&amp;body=https%3a%2f%2fstes.github.io%2fpublication%2fcompressive_sensing%2f">
+         href="mailto:?subject=Context-based%20Normalization%20of%20Histological%20Stains%20using%20Deep%20Convolutional%20Features&amp;body=https%3a%2f%2fstes.github.io%2fpublication%2fstainnorm%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -190,7 +190,7 @@
   
 
   <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">Compressed sensing has proven to be an important technique in signal acquisition, especially in contexts in which sensor quality or the maximum possible duration of the measurement is limited. In this report, deep learning techniques are used to improve compressive sensing in the context of image acquisition. In a previous approach, stacked denoising autoencoders capable of reconstructing images considerably faster than conventional iterative methods were deployed. Apart from reviewing this approach, a possible extension using convolutional autoencoders inspired by the popular VGGnet architecture is discussed. Instead of learning models from scratch, a simple yet effective way for adapting available filters used in ImageNet classification is presented. By reformulation of the autoencoder structure in terms of a fully convolutional network, the previous approach can be adapted to arbritrarly large images for efficient learning of the measurement matrix and sparsity basis. Suggestions on the real implementation of such as system conclude the report.</p>
+  <p class="pub-abstract" itemprop="text">While human observers are able to cope with variations in color and appearance of histological stains, digital pathology algorithms commonly require a well-normalized setting to achieve peak performance, especially when a limited amount of labeled data is available. This work provides a fully automated, end-to-end learning-based setup for normalizing histological stains, which considers the texture context of the tissue. We introduce Feature Aware Normalization, which extends the framework of batch normalization in combination with gating elements from Long Short-Term Memory units for normalization among different spatial regions of interest. By incorporating a pretrained deep neural network as a feature extractor steering a pixelwise processing pipeline, we achieve excellent normalization results and ensure a consistent representation of color and texture. The evaluation comprises a comparison of color histogram deviations, structural similarity and measures the color volume obtained by the different methods.</p>
 
   
 
@@ -199,7 +199,7 @@
     <div class="col-sm-10">
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9"></div>
+        <div class="col-xs-12 col-sm-9">Published at the 3rd Workshop on Deep Learning in Medical Image Analysis (DLMIA) at MICCAI 2017</div>
       </div>
     </div>
     <div class="col-sm-1"></div>
@@ -212,7 +212,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
         <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-          April, 2016
+          August, 2017
         </div>
       </div>
     </div>
@@ -232,22 +232,26 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/stes/compressed_sensing/raw/master/report/report.pdf">
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/1708.04099">
   PDF
 </a>
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/stes/compressed_sensing/raw/master/presentation/presentation.pdf">
-  Slides
-</a>
 
 
-
-<a class="btn btn-primary btn-outline" href="https://github.com/stes/compressed_sensing/tree/master/code">
+<a class="btn btn-primary btn-outline" href="https://github.com/stes/fan">
   Code
 </a>
 
 
+<a class="btn btn-primary btn-outline" href="https://github.com/stes/fan">
+  Dataset
+</a>
+
+
+<a class="btn btn-primary btn-outline" href="https://stes.github.io/fan">
+  Project
+</a>
 
 
 
@@ -269,13 +273,10 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://stes.github.io/publication/bachelor_thesis/"><span
-      aria-hidden="true">&larr;</span> Improving Histopathological Tissue Classification with Transfer Learning and Unsupervised Pre-Training of Deep Neural Networks</a></li>
+    <li class="previous"><a href="https://stes.github.io/publication/fcn_bernstein/"><span
+      aria-hidden="true">&larr;</span> Fully Convolutional Signal Transcription for Artifact Removal and Normalization</a></li>
     
 
-    
-    <li class="next"><a href="https://stes.github.io/publication/winterakademie/">PageRank and Beyond - How Google Finds Your Needle in the Web’s Haystack <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>

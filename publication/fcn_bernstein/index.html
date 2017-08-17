@@ -32,11 +32,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://stes.github.io/publication/compressive_sensing/">
+  <link rel="canonical" href="https://stes.github.io/publication/fcn_bernstein/">
 
   
 
-  <title>A Deep Learning Approach to Compressive Sensing | Steffen Schneider</title>
+  <title>Fully Convolutional Signal Transcription for Artifact Removal and Normalization | Steffen Schneider</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -133,10 +133,10 @@
   
 
   <div class="container pub-title">
-    <h1 itemprop="name">A Deep Learning Approach to Compressive Sensing</h1>
+    <h1 itemprop="name">Fully Convolutional Signal Transcription for Artifact Removal and Normalization</h1>
     <span class="pub-authors" itemprop="author">
       
-      Steffen Schneider
+      Steffen Schneider, Akara Supratak, Ling Li, Yike Guo
       
     </span>
     <span class="pull-right">
@@ -145,35 +145,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fstes.github.io%2fpublication%2fcompressive_sensing%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fstes.github.io%2fpublication%2ffcn_bernstein%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=A%20Deep%20Learning%20Approach%20to%20Compressive%20Sensing&amp;url=https%3a%2f%2fstes.github.io%2fpublication%2fcompressive_sensing%2f"
+         href="https://twitter.com/intent/tweet?text=Fully%20Convolutional%20Signal%20Transcription%20for%20Artifact%20Removal%20and%20Normalization&amp;url=https%3a%2f%2fstes.github.io%2fpublication%2ffcn_bernstein%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fstes.github.io%2fpublication%2fcompressive_sensing%2f&amp;title=A%20Deep%20Learning%20Approach%20to%20Compressive%20Sensing"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fstes.github.io%2fpublication%2ffcn_bernstein%2f&amp;title=Fully%20Convolutional%20Signal%20Transcription%20for%20Artifact%20Removal%20and%20Normalization"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fstes.github.io%2fpublication%2fcompressive_sensing%2f&amp;title=A%20Deep%20Learning%20Approach%20to%20Compressive%20Sensing"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fstes.github.io%2fpublication%2ffcn_bernstein%2f&amp;title=Fully%20Convolutional%20Signal%20Transcription%20for%20Artifact%20Removal%20and%20Normalization"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=A%20Deep%20Learning%20Approach%20to%20Compressive%20Sensing&amp;body=https%3a%2f%2fstes.github.io%2fpublication%2fcompressive_sensing%2f">
+         href="mailto:?subject=Fully%20Convolutional%20Signal%20Transcription%20for%20Artifact%20Removal%20and%20Normalization&amp;body=https%3a%2f%2fstes.github.io%2fpublication%2ffcn_bernstein%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -190,7 +190,7 @@
   
 
   <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">Compressed sensing has proven to be an important technique in signal acquisition, especially in contexts in which sensor quality or the maximum possible duration of the measurement is limited. In this report, deep learning techniques are used to improve compressive sensing in the context of image acquisition. In a previous approach, stacked denoising autoencoders capable of reconstructing images considerably faster than conventional iterative methods were deployed. Apart from reviewing this approach, a possible extension using convolutional autoencoders inspired by the popular VGGnet architecture is discussed. Instead of learning models from scratch, a simple yet effective way for adapting available filters used in ImageNet classification is presented. By reformulation of the autoencoder structure in terms of a fully convolutional network, the previous approach can be adapted to arbritrarly large images for efficient learning of the measurement matrix and sparsity basis. Suggestions on the real implementation of such as system conclude the report.</p>
+  <p class="pub-abstract" itemprop="text">Electrophysiological recordings are usually prone to artifacts that are commonly removed by visual inspection and signal decomposition techniques such as ICA in clinical and research contexts. In this work, we propose a generative deep learning model for EEG signals inspired by the WaveNet architecture conditioned on biosignals from other modalities (EOG, EMG and ECG) that are expected to capture relevant context information on artifacts that are simultaneously recorded in the EEG signal. As our main contributions, we show that it is possible to capture non-trivial correlations between time-series from multiple modalities in a fully-convolutional neural network. By dampening the context signals during inference, it is possible to remove the caused artifacts in the EEG signal by (1) generating a possibly uncorrelated EEG sequence from a dampened version of the context signal (2) estimating the context signal’s contribution to a particular kind of artifact and removing this effect from the original EEG sequence, preserving the signal information. In this poster, we present preliminary results on the openly available MASS cohort-3 sleep database, comprising recordings from various patients recorded during sleep.</p>
 
   
 
@@ -199,7 +199,7 @@
     <div class="col-sm-10">
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9"></div>
+        <div class="col-xs-12 col-sm-9">Accepted as a Poster Presentation at the 13th Bernstein Conference 2017, Göttingen, Germany</div>
       </div>
     </div>
     <div class="col-sm-1"></div>
@@ -212,7 +212,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
         <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-          April, 2016
+          August, 2017
         </div>
       </div>
     </div>
@@ -232,20 +232,8 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/stes/compressed_sensing/raw/master/report/report.pdf">
-  PDF
-</a>
 
 
-<a class="btn btn-primary btn-outline" href="https://github.com/stes/compressed_sensing/raw/master/presentation/presentation.pdf">
-  Slides
-</a>
-
-
-
-<a class="btn btn-primary btn-outline" href="https://github.com/stes/compressed_sensing/tree/master/code">
-  Code
-</a>
 
 
 
@@ -261,7 +249,19 @@
 
   <div class="space-below"></div>
 
-  <div class="article-style"></div>
+  <div class="article-style">
+
+<p><img src="/img/fig_bernstein.png" alt="A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve" />
+<strong>Figure 1</strong>: A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve</p>
+
+<h2 id="references">References</h2>
+
+<pre><code>[1] Oord, Aaron van den, et al. &quot;Wavenet: A generative model for raw audio.&quot; arXiv preprint arXiv:1609.03499 (2016).
+[2] O'reilly, Christian, et al. &quot;Montreal Archive of Sleep Studies: an open‐access resource for instrument benchmarking and exploratory research.&quot; Journal of sleep research 23.6 (2014): 628-635., 10.1111/jsr.12169
+[3] Gal, Yarin. Uncertainty in deep learning. Diss. PhD thesis, University of Cambridge, 2016.
+[4] Massetani, Roberto, et al. &quot;Alteration of cardiac function in patients with temporal lobe epilepsy: different roles of EEG‐ECG monitoring and spectral analysis of RR variability.&quot; Epilepsia 38.3 (1997): 363-369., 10.1111/j.1528-1157.1997.tb01129.x
+</code></pre>
+</div>
 
 </div>
 
@@ -269,12 +269,12 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://stes.github.io/publication/bachelor_thesis/"><span
-      aria-hidden="true">&larr;</span> Improving Histopathological Tissue Classification with Transfer Learning and Unsupervised Pre-Training of Deep Neural Networks</a></li>
+    <li class="previous"><a href="https://stes.github.io/publication/hbp/"><span
+      aria-hidden="true">&larr;</span> Building Robust Deep Networks for Medical Data Analysis</a></li>
     
 
     
-    <li class="next"><a href="https://stes.github.io/publication/winterakademie/">PageRank and Beyond - How Google Finds Your Needle in the Web’s Haystack <span
+    <li class="next"><a href="https://stes.github.io/publication/stainnorm/">Context-based Normalization of Histological Stains using Deep Convolutional Features <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
