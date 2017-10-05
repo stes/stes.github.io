@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/blog/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NeuBtracker</title>
+      <link>https://stes.github.io/project/neubtracker/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/project/neubtracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomodels Retreat</title>
+      <link>https://stes.github.io/project/biomodels/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/project/biomodels/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MSNE Blog</title>

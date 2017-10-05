@@ -4,8 +4,24 @@
     
     
     <url>
+      <loc>https://stes.github.io/project/neubtracker/</loc>
+      <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.github.io/publication/neubtracker/</loc>
+      <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://stes.github.io/publication/stainnorm/</loc>
-      <lastmod>2017-08-16T00:00:00+00:00</lastmod>
+      <lastmod>2017-09-14T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -13,7 +29,15 @@
     
     <url>
       <loc>https://stes.github.io/publication/fcn_bernstein/</loc>
-      <lastmod>2017-08-16T00:00:00+00:00</lastmod>
+      <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.github.io/project/biomodels/</loc>
+      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -30,14 +54,6 @@
     <url>
       <loc>https://stes.github.io/project/db017/</loc>
       <lastmod>2017-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://stes.github.io/publication/winterakademie/</loc>
-      <lastmod>2017-04-22T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -101,7 +117,7 @@
     
     <url>
       <loc>https://stes.github.io/tags/blog/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-10-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -172,7 +188,7 @@
     
     <url>
       <loc>https://stes.github.io/project/</loc>
-      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-10-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -181,7 +197,7 @@
     
     <url>
       <loc>https://stes.github.io/publication/</loc>
-      <lastmod>2017-08-16T00:00:00+00:00</lastmod>
+      <lastmod>2017-10-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -190,7 +206,7 @@
     
     <url>
       <loc>https://stes.github.io/tags/social/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-10-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -199,7 +215,7 @@
     
     <url>
       <loc>https://stes.github.io/</loc>
-      <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -208,7 +224,7 @@
     
     <url>
       <loc>https://stes.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2017-10-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

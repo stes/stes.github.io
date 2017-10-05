@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NeuBtracker — imaging neurobehavioral dynamics in freely behaving fish</title>
+      <link>https://stes.github.io/publication/neubtracker/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/publication/neubtracker/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Context-based Normalization of Histological Stains using Deep Convolutional Features</title>
       <link>https://stes.github.io/publication/stainnorm/</link>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stes.github.io/publication/stainnorm/</guid>
       <description></description>
@@ -22,7 +31,7 @@
     <item>
       <title>Fully Convolutional Signal Transcription for Artifact Removal and Normalization</title>
       <link>https://stes.github.io/publication/fcn_bernstein/</link>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stes.github.io/publication/fcn_bernstein/</guid>
       <description>
@@ -51,18 +60,6 @@
     </item>
     
     <item>
-      <title>PageRank and Beyond - How Google Finds Your Needle in the Web’s Haystack</title>
-      <link>https://stes.github.io/publication/winterakademie/</link>
-      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.github.io/publication/winterakademie/</guid>
-      <description>&lt;p&gt;This talk was given at the &lt;a href=&#34;http://www.studienstiftung-mainz.de/p/winterakademie.html&#34;&gt;Studienstiftung Winterakademie 2017&lt;/a&gt; in Davos, Switzerland.&lt;/p&gt;
-
-&lt;p&gt;Financial support to participation by: &lt;a href=&#34;https://www.studienstiftung.de/&#34;&gt;Studienstiftung des dt. Volkes (SmP)&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A Deep Learning Approach to Compressive Sensing</title>
       <link>https://stes.github.io/publication/compressive_sensing/</link>
       <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
@@ -77,7 +74,8 @@
       <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stes.github.io/publication/bachelor_thesis/</guid>
-      <description></description>
+      <description>&lt;p&gt;If you are interested in reading the full text, please contact me &lt;a href=&#34;https://stes.github.io/&#34;&gt;via email&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
