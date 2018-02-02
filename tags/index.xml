@@ -7,13 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
-    <lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Blog</title>
       <link>https://stes.github.io/tags/blog/</link>
-      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stes.github.io/tags/blog/</guid>
       <description></description>
@@ -76,7 +78,7 @@
     <item>
       <title>Social</title>
       <link>https://stes.github.io/tags/social/</link>
-      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stes.github.io/tags/social/</guid>
       <description></description>

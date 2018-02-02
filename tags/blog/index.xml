@@ -7,8 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
-    <lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/blog/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stes.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Smart Start Retreat</title>
+      <link>https://stes.github.io/project/smartstart/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/project/smartstart/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NeuBtracker</title>

@@ -8,7 +8,64 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
     <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://stes.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://stes.github.io/home/about/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/home/about/</guid>
+      <description>My goal is to build robust machine learning models capable of solving real-world problems on the same performance level as our brain. On this path, my current research is concerned with domain adaptation and transfer learning. Other research interests include semi-supervised learning in domains with little labeled data, the cross-section between machine learning and computational neuroscience and philosophical questions in AI research.
+Currently, I work with Gil Westmeyer and Panagiotis Symvoulidis at the Helmholtz Zentrum Munich on the development of the open-source microscope NeuBtracker, recently published in Nature Methods.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://stes.github.io/home/news/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/home/news/</guid>
+      <description>I recently gave a popular science talk on Unsupervised Learning at 15x4 Munich Our paper &amp;ldquo;Towards Desynchronization Detection in Biosignals&amp;rdquo; with methods during my internship with Caroline Li and Yike Guo was accepted to the NIPS Time Series Workshop 2018. My follow-up work on Feature Aware Normalization for neuroscience applications was accepted for oral and poster presentation at the 2nd HBP student conference. I thank the organizers for providing a travel grant.</description>
+    </item>
+    
+    <item>
+      <title>Research and Teaching</title>
+      <link>https://stes.github.io/home/roles/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/home/roles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracurriculars</title>
+      <link>https://stes.github.io/home/extracurriculars/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/home/extracurriculars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications and Talks</title>
+      <link>https://stes.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://stes.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/home/projects/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

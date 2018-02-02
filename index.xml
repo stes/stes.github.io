@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Smart Start Retreat</title>
+      <link>https://stes.github.io/project/smartstart/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/project/smartstart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Convolutional Signal Transcription for Artifact Removal and Normalization</title>
+      <link>https://stes.github.io/publication/nipstimeseries/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/publication/nipstimeseries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NeuBtracker</title>
       <link>https://stes.github.io/project/neubtracker/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
@@ -162,15 +180,6 @@ The software provides a convenient web interface for accessing the quality of au
 &lt;p&gt;The ILUMINATE Annotation Viewer was build using &lt;a href=&#34;http://openslide.org/api/python/&#34;&gt;openslide-python&lt;/a&gt; for the backend and &lt;a href=&#34;https://openseadragon.github.io/&#34;&gt;OpenSeadragon&lt;/a&gt; for efficient rendering of image and annotation.
 The project will be available on Github soon.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>IT4Kids</title>
-      <link>https://stes.github.io/project/it4kids/</link>
-      <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.github.io/project/it4kids/</guid>
-      <description></description>
     </item>
     
   </channel>

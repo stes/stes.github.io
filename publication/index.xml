@@ -7,8 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
-    <lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stes.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fully Convolutional Signal Transcription for Artifact Removal and Normalization</title>
+      <link>https://stes.github.io/publication/nipstimeseries/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.github.io/publication/nipstimeseries/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NeuBtracker — imaging neurobehavioral dynamics in freely behaving fish</title>
@@ -34,19 +45,8 @@
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stes.github.io/publication/fcn_bernstein/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://stes.github.io/img/fig_bernstein.png&#34; alt=&#34;A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve&#34; /&gt;
-&lt;strong&gt;Figure 1&lt;/strong&gt;: A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve&lt;/p&gt;
-
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;[1] Oord, Aaron van den, et al. &amp;quot;Wavenet: A generative model for raw audio.&amp;quot; arXiv preprint arXiv:1609.03499 (2016).
-[2] O&#39;reilly, Christian, et al. &amp;quot;Montreal Archive of Sleep Studies: an open‐access resource for instrument benchmarking and exploratory research.&amp;quot; Journal of sleep research 23.6 (2014): 628-635., 10.1111/jsr.12169
-[3] Gal, Yarin. Uncertainty in deep learning. Diss. PhD thesis, University of Cambridge, 2016.
-[4] Massetani, Roberto, et al. &amp;quot;Alteration of cardiac function in patients with temporal lobe epilepsy: different roles of EEG‐ECG monitoring and spectral analysis of RR variability.&amp;quot; Epilepsia 38.3 (1997): 363-369., 10.1111/j.1528-1157.1997.tb01129.x
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <description>Figure 1: A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve
+References [1] Oord, Aaron van den, et al. &amp;quot;Wavenet: A generative model for raw audio.&amp;quot; arXiv preprint arXiv:1609.03499 (2016). [2] O&#39;reilly, Christian, et al. &amp;quot;Montreal Archive of Sleep Studies: an open‐access resource for instrument benchmarking and exploratory research.</description>
     </item>
     
     <item>
@@ -55,8 +55,7 @@
       <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stes.github.io/publication/hbp/</guid>
-      <description>&lt;p&gt;This talk was given in at the 4th HBP Summer School on Future Computing Brain Science and Artificial Intelligence in Obergurgle, Austria.&lt;/p&gt;
-</description>
+      <description>This talk was given in at the 4th HBP Summer School on Future Computing Brain Science and Artificial Intelligence in Obergurgle, Austria.</description>
     </item>
     
     <item>
@@ -74,8 +73,7 @@
       <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stes.github.io/publication/bachelor_thesis/</guid>
-      <description>&lt;p&gt;If you are interested in reading the full text, please contact me &lt;a href=&#34;https://stes.github.io/&#34;&gt;via email&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>If you are interested in reading the full text, please contact me via email</description>
     </item>
     
   </channel>

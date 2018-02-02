@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/munich/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://stes.github.io/tags/munich/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>MSNE Blog</title>
