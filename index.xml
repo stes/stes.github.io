@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steffen Schneider on Steffen Schneider</title>
-    <link>https://stes.github.io/</link>
+    <link>http://stes.io/</link>
     <description>Recent content in Steffen Schneider on Steffen Schneider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
+    <copyright>&amp;copy; 2017 - 2018 Steffen Schneider</copyright>
     <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Smart Start Retreat</title>
-      <link>https://stes.github.io/project/smartstart/</link>
+      <link>http://stes.io/project/smartstart/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/project/smartstart/</guid>
+      <guid>http://stes.io/project/smartstart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Desynchronization Detection in Biosignals</title>
-      <link>https://stes.github.io/publication/nipstimeseries/</link>
+      <link>http://stes.io/publication/nipstimeseries/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/publication/nipstimeseries/</guid>
+      <guid>http://stes.io/publication/nipstimeseries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NeuBtracker</title>
-      <link>https://stes.github.io/project/neubtracker/</link>
+      <link>http://stes.io/project/neubtracker/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/project/neubtracker/</guid>
+      <guid>http://stes.io/project/neubtracker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NeuBtracker — imaging neurobehavioral dynamics in freely behaving fish</title>
-      <link>https://stes.github.io/publication/neubtracker/</link>
+      <link>http://stes.io/publication/neubtracker/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/publication/neubtracker/</guid>
+      <guid>http://stes.io/publication/neubtracker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Context-based Normalization of Histological Stains using Deep Convolutional Features</title>
-      <link>https://stes.github.io/publication/stainnorm/</link>
+      <link>http://stes.io/publication/stainnorm/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/publication/stainnorm/</guid>
+      <guid>http://stes.io/publication/stainnorm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fully Convolutional Signal Transcription for Artifact Removal and Normalization</title>
-      <link>https://stes.github.io/publication/fcn_bernstein/</link>
+      <link>http://stes.io/publication/fcn_bernstein/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/publication/fcn_bernstein/</guid>
+      <guid>http://stes.io/publication/fcn_bernstein/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;https://stes.github.io/img/fig_bernstein.png&#34; alt=&#34;A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://stes.io/img/fig_bernstein.png&#34; alt=&#34;A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve&#34; /&gt;
 &lt;strong&gt;Figure 1&lt;/strong&gt;: A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve&lt;/p&gt;
 
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
@@ -78,85 +78,85 @@
     
     <item>
       <title>Biomodels Retreat</title>
-      <link>https://stes.github.io/project/biomodels/</link>
+      <link>http://stes.io/project/biomodels/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/project/biomodels/</guid>
+      <guid>http://stes.io/project/biomodels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Building Robust Deep Networks for Medical Data Analysis</title>
-      <link>https://stes.github.io/publication/hbp/</link>
+      <link>http://stes.io/publication/hbp/</link>
       <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/publication/hbp/</guid>
+      <guid>http://stes.io/publication/hbp/</guid>
       <description>&lt;p&gt;This talk was given in at the 4th HBP Summer School on Future Computing Brain Science and Artificial Intelligence in Obergurgle, Austria.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>TUFast Driverless nb017</title>
-      <link>https://stes.github.io/project/db017/</link>
+      <link>http://stes.io/project/db017/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/project/db017/</guid>
+      <guid>http://stes.io/project/db017/</guid>
       <description>&lt;p&gt;In an attempt to&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MSNE Blog</title>
-      <link>https://stes.github.io/project/msne/</link>
+      <link>http://stes.io/project/msne/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/project/msne/</guid>
+      <guid>http://stes.io/project/msne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecurie Aix eace04/05</title>
-      <link>https://stes.github.io/project/eace04/</link>
+      <link>http://stes.io/project/eace04/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/project/eace04/</guid>
+      <guid>http://stes.io/project/eace04/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Deep Learning Approach to Compressive Sensing</title>
-      <link>https://stes.github.io/publication/compressive_sensing/</link>
+      <link>http://stes.io/publication/compressive_sensing/</link>
       <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/publication/compressive_sensing/</guid>
+      <guid>http://stes.io/publication/compressive_sensing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Histopathological Tissue Classification with Transfer Learning and Unsupervised Pre-Training of Deep Neural Networks</title>
-      <link>https://stes.github.io/publication/bachelor_thesis/</link>
+      <link>http://stes.io/publication/bachelor_thesis/</link>
       <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/publication/bachelor_thesis/</guid>
-      <description>&lt;p&gt;If you are interested in reading the full text, please contact me &lt;a href=&#34;https://stes.github.io/&#34;&gt;via email&lt;/a&gt;&lt;/p&gt;
+      <guid>http://stes.io/publication/bachelor_thesis/</guid>
+      <description>&lt;p&gt;If you are interested in reading the full text, please contact me &lt;a href=&#34;http://stes.io/&#34;&gt;via email&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Campus Weggemeinschaft</title>
-      <link>https://stes.github.io/project/campus/</link>
+      <link>http://stes.io/project/campus/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/project/campus/</guid>
+      <guid>http://stes.io/project/campus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ILUMINATE</title>
-      <link>https://stes.github.io/project/iluminate/</link>
+      <link>http://stes.io/project/iluminate/</link>
       <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/project/iluminate/</guid>
+      <guid>http://stes.io/project/iluminate/</guid>
       <description>
 
 &lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
@@ -171,11 +171,11 @@
 
 &lt;p&gt;I maintain the Annotation Viewer software used for analysing classification results (unpublished as of now).
 The software provides a convenient web interface for accessing the quality of automated annotations generated by our dense segmentation network.
-&lt;img src=&#34;https://stes.github.io/img/iluviewer/closeup.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 700px;&#34;/&gt;&lt;/p&gt;
+&lt;img src=&#34;http://stes.io/img/iluviewer/closeup.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 700px;&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;It also provides tools to annotate new whole slide images partly by hand and supporting the network in the process of accurate labeling.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://stes.github.io/img/iluviewer/comparison.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 700px;&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://stes.io/img/iluviewer/comparison.png&#34; alt=&#34;Drawing&#34; style=&#34;width: 700px;&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;The ILUMINATE Annotation Viewer was build using &lt;a href=&#34;http://openslide.org/api/python/&#34;&gt;openslide-python&lt;/a&gt; for the backend and &lt;a href=&#34;https://openseadragon.github.io/&#34;&gt;OpenSeadragon&lt;/a&gt; for efficient rendering of image and annotation.
 The project will be available on Github soon.&lt;/p&gt;

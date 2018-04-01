@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Steffen Schneider</title>
-    <link>https://stes.github.io/tags/machine-learning/</link>
+    <link>http://stes.io/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Steffen Schneider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
+    <copyright>&amp;copy; 2017 - 2018 Steffen Schneider</copyright>
     <lastBuildDate>Sun, 31 May 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stes.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://stes.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ILUMINATE</title>
-      <link>https://stes.github.io/project/iluminate/</link>
+      <link>http://stes.io/project/iluminate/</link>
       <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/project/iluminate/</guid>
+      <guid>http://stes.io/project/iluminate/</guid>
       <description>Project Overview ILUMINATE (Innovative Lung Cancer Mouse Models recapitulating human immune response and Tumor-Stroma Exchange) develops a novel platform for integrated analysis of in-vivo models for preclinical evaluation of new compounds in oncology, including innovative therapeutic approaches in oncoimmunology. The goal is to provide innovative service models that cover the entire range of in-vivo research, including planning of the study experimental set up, data analysis, and comprehensive visual presentation of results.</description>
     </item>
     
     <item>
       <title>IT4Kids</title>
-      <link>https://stes.github.io/project/it4kids/</link>
+      <link>http://stes.io/project/it4kids/</link>
       <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/project/it4kids/</guid>
+      <guid>http://stes.io/project/it4kids/</guid>
       <description></description>
     </item>
     

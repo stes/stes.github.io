@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Munich on Steffen Schneider</title>
-    <link>https://stes.github.io/tags/munich/</link>
+    <link>http://stes.io/tags/munich/</link>
     <description>Recent content in Munich on Steffen Schneider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Steffen Schneider</copyright>
+    <copyright>&amp;copy; 2017 - 2018 Steffen Schneider</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stes.github.io/tags/munich/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://stes.io/tags/munich/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MSNE Blog</title>
-      <link>https://stes.github.io/project/msne/</link>
+      <link>http://stes.io/project/msne/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.github.io/project/msne/</guid>
+      <guid>http://stes.io/project/msne/</guid>
       <description></description>
     </item>
     
