@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Steffen Schneider</title>
-    <link>http://stes.io/publication/</link>
+    <link>https://stes.io/publication/</link>
     <description>Recent content in Publications on Steffen Schneider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - 2018 Steffen Schneider</copyright>
     <lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://stes.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stes.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Towards Desynchronization Detection in Biosignals</title>
-      <link>http://stes.io/publication/nipstimeseries/</link>
+      <link>https://stes.io/publication/nipstimeseries/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/publication/nipstimeseries/</guid>
+      <guid>https://stes.io/publication/nipstimeseries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NeuBtracker — imaging neurobehavioral dynamics in freely behaving fish</title>
-      <link>http://stes.io/publication/neubtracker/</link>
+      <link>https://stes.io/publication/neubtracker/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/publication/neubtracker/</guid>
+      <guid>https://stes.io/publication/neubtracker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Context-based Normalization of Histological Stains using Deep Convolutional Features</title>
-      <link>http://stes.io/publication/stainnorm/</link>
+      <link>https://stes.io/publication/stainnorm/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/publication/stainnorm/</guid>
+      <guid>https://stes.io/publication/stainnorm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fully Convolutional Signal Transcription for Artifact Removal and Normalization</title>
-      <link>http://stes.io/publication/fcn_bernstein/</link>
+      <link>https://stes.io/publication/fcn_bernstein/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/publication/fcn_bernstein/</guid>
+      <guid>https://stes.io/publication/fcn_bernstein/</guid>
       <description>Figure 1: A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve
 References [1] Oord, Aaron van den, et al. &amp;quot;Wavenet: A generative model for raw audio.&amp;quot; arXiv preprint arXiv:1609.03499 (2016). [2] O&#39;reilly, Christian, et al. &amp;quot;Montreal Archive of Sleep Studies: an open‐access resource for instrument benchmarking and exploratory research.</description>
     </item>
     
     <item>
       <title>Building Robust Deep Networks for Medical Data Analysis</title>
-      <link>http://stes.io/publication/hbp/</link>
+      <link>https://stes.io/publication/hbp/</link>
       <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/publication/hbp/</guid>
+      <guid>https://stes.io/publication/hbp/</guid>
       <description>This talk was given in at the 4th HBP Summer School on Future Computing Brain Science and Artificial Intelligence in Obergurgle, Austria.</description>
     </item>
     
     <item>
       <title>A Deep Learning Approach to Compressive Sensing</title>
-      <link>http://stes.io/publication/compressive_sensing/</link>
+      <link>https://stes.io/publication/compressive_sensing/</link>
       <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/publication/compressive_sensing/</guid>
+      <guid>https://stes.io/publication/compressive_sensing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Histopathological Tissue Classification with Transfer Learning and Unsupervised Pre-Training of Deep Neural Networks</title>
-      <link>http://stes.io/publication/bachelor_thesis/</link>
+      <link>https://stes.io/publication/bachelor_thesis/</link>
       <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/publication/bachelor_thesis/</guid>
+      <guid>https://stes.io/publication/bachelor_thesis/</guid>
       <description>If you are interested in reading the full text, please contact me via email</description>
     </item>
     

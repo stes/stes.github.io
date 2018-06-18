@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Steffen Schneider</title>
-    <link>http://stes.io/home/</link>
+    <link>https://stes.io/home/</link>
     <description>Recent content in Homes on Steffen Schneider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - 2018 Steffen Schneider</copyright>
     <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://stes.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stes.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://stes.io/home/about/</link>
+      <link>https://stes.io/home/about/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/home/about/</guid>
+      <guid>https://stes.io/home/about/</guid>
       <description>My goal is to build robust machine learning models capable of solving real-world problems on the same performance level as our brain. On this path, my current research is concerned with domain adaptation and transfer learning. Other research interests include semi-supervised learning in domains with little labeled data, the cross-section between machine learning and computational neuroscience and philosophical questions in AI research.
 For my Master&amp;rsquo;s thesis, I am currently working on &amp;ldquo;Domain Adaptation in Brains and Machines&amp;rdquo; with Matthias Bethge at the Max Planck Institute for Intelligent Systems in Tübingen.</description>
     </item>
     
     <item>
       <title>News</title>
-      <link>http://stes.io/home/news/</link>
+      <link>https://stes.io/home/news/</link>
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/home/news/</guid>
+      <guid>https://stes.io/home/news/</guid>
       <description>2018
  Starting in April, I am joining the Bethge Lab at the Max Planck Institute for Intelligent Systems in Tübingen for my Master&amp;rsquo;s thesis on &amp;ldquo;Domain Adaptation in Brains and Machines&amp;rdquo;. I recently gave a popular science talk on Unsupervised Learning at 15x4 Munich.  2017
  Our paper &amp;ldquo;Towards Desynchronization Detection in Biosignals&amp;rdquo; with methods during my internship with Caroline Li and Yike Guo was accepted to the NIPS Time Series Workshop 2018.</description>
@@ -35,37 +35,37 @@ For my Master&amp;rsquo;s thesis, I am currently working on &amp;ldquo;Domain Ad
     
     <item>
       <title>Research and Teaching</title>
-      <link>http://stes.io/home/roles/</link>
+      <link>https://stes.io/home/roles/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/home/roles/</guid>
+      <guid>https://stes.io/home/roles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extracurriculars</title>
-      <link>http://stes.io/home/extracurriculars/</link>
+      <link>https://stes.io/home/extracurriculars/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/home/extracurriculars/</guid>
+      <guid>https://stes.io/home/extracurriculars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications and Talks</title>
-      <link>http://stes.io/home/publications/</link>
+      <link>https://stes.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/home/publications/</guid>
+      <guid>https://stes.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://stes.io/home/projects/</link>
+      <link>https://stes.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://stes.io/home/projects/</guid>
+      <guid>https://stes.io/home/projects/</guid>
       <description></description>
     </item>
     
