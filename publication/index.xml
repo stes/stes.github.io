@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - 2018 Steffen Schneider</copyright>
-    <lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://stes.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Salad: A Toolbox for Semi-supervised Adaptive Learning Across Domains</title>
+      <link>https://stes.io/publication/salad/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.io/publication/salad/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Desynchronization Detection in Biosignals</title>
