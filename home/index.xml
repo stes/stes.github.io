@@ -29,7 +29,7 @@ Besides, I am interested in applications to medical image processing, neuroscien
       
       <guid>https://stes.io/home/news/</guid>
       <description>2018
- We just released a PyTorch toolbox for Semi-supervised Adaptive Learning Across Domains (salad) for a fair and reproducible evaluation of current domain adaptation algorithms. The first released version focuses on discriminative domain adaptation on the classic digit benchmark, make sure to check out the code as well as the project homepage! Part of my thesis project with Matthias Bethge, Alex Ecker and Jakob Macke in Tübingen &amp;amp; Munich. I joined Facebook AI Research as an AI resident this October, under supervision of Michael Auli.</description>
+ Our paper on Multi-Task Generalization and Adaptation between Noisy Digit Datasets was accepted for a poster presentation at the Continual Learning Workshop at NIPS 2018. We just released a PyTorch toolbox for Semi-supervised Adaptive Learning Across Domains (salad) for a fair and reproducible evaluation of current domain adaptation algorithms. The first released version focuses on discriminative domain adaptation on the classic digit benchmark, make sure to check out the code as well as the project homepage!</description>
     </item>
     
     <item>
