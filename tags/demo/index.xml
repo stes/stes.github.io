@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo on Steffen Schneider</title>
+    <title>demo on Steffen Schneider</title>
     <link>https://stes.io/tags/demo/</link>
-    <description>Recent content in Demo on Steffen Schneider</description>
+    <description>Recent content in demo on Steffen Schneider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - 2019 Steffen Schneider</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/db017/</guid>
-      <description>In an attempt to</description>
+      <description>Development of a fully autonomous racecar for the FSG Driverless competition in Hockenheim.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/eace04/</guid>
-      <description></description>
+      <description>Contributions include the design of electric control units</description>
     </item>
     
   </channel>

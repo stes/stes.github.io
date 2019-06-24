@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social on Steffen Schneider</title>
+    <title>social on Steffen Schneider</title>
     <link>https://stes.io/tags/social/</link>
-    <description>Recent content in Social on Steffen Schneider</description>
+    <description>Recent content in social on Steffen Schneider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - 2019 Steffen Schneider</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/smartstart/</guid>
-      <description></description>
+      <description>Retreat for scholars of the Smart Start Training Program in Computational Neuroscience</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/neubtracker/</guid>
-      <description></description>
+      <description>An Imaging Platform for Neurobehavioral Research</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/biomodels/</guid>
-      <description></description>
+      <description>Establishing fruitful collaborations between biologists, computer scientists and mathematicians in a yearly one-week retreat.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/campus/</guid>
-      <description></description>
+      <description>Homepage der Campus Weggemeinschaft</description>
     </item>
     
   </channel>

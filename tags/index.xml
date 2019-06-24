@@ -7,13 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - 2019 Steffen Schneider</copyright>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://stes.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
+      <title>deep-learning</title>
+      <link>https://stes.io/tags/deep-learning/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digital-pathology</title>
+      <link>https://stes.io/tags/digital-pathology/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.io/tags/digital-pathology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://stes.io/tags/machine-learning/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
       <link>https://stes.io/tags/blog/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
@@ -22,16 +49,16 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://stes.io/tags/deep-learning/</link>
-      <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
+      <title>social</title>
+      <link>https://stes.io/tags/social/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://stes.io/tags/deep-learning/</guid>
+      <guid>https://stes.io/tags/social/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
+      <title>demo</title>
       <link>https://stes.io/tags/demo/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
@@ -40,25 +67,7 @@
     </item>
     
     <item>
-      <title>Digital Pathology</title>
-      <link>https://stes.io/tags/digital-pathology/</link>
-      <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/tags/digital-pathology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://stes.io/tags/machine-learning/</link>
-      <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Munich</title>
+      <title>munich</title>
       <link>https://stes.io/tags/munich/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
@@ -67,20 +76,11 @@
     </item>
     
     <item>
-      <title>Neuroengineering</title>
+      <title>neuroengineering</title>
       <link>https://stes.io/tags/neuroengineering/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/tags/neuroengineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social</title>
-      <link>https://stes.io/tags/social/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/tags/social/</guid>
       <description></description>
     </item>
     

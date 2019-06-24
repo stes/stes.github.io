@@ -1,11 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+    
+    <url>
+      <loc>https://stes.io/project/kimachtschule/</loc>
+      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.io/project/</loc>
+      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.io/</loc>
+      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.io/tags/</loc>
+      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.io/tags/deep-learning/</loc>
+      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.io/tags/digital-pathology/</loc>
+      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.io/tags/machine-learning/</loc>
+      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     
     <url>
       <loc>https://stes.io/publication/multitask/</loc>
       <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.io/publication/</loc>
+      <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -22,6 +92,24 @@
     <url>
       <loc>https://stes.io/project/smartstart/</loc>
       <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.io/tags/blog/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.io/tags/social/</loc>
+      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -92,8 +180,35 @@
     
     
     <url>
+      <loc>https://stes.io/tags/demo/</loc>
+      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://stes.io/project/msne/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.io/tags/munich/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://stes.io/tags/neuroengineering/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -148,115 +263,7 @@
     
     
     <url>
-      <loc>https://stes.io/tags/blog/</loc>
-      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>https://stes.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://stes.io/tags/deep-learning/</loc>
-      <lastmod>2015-05-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://stes.io/tags/demo/</loc>
-      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://stes.io/tags/digital-pathology/</loc>
-      <lastmod>2015-05-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://stes.io/tags/machine-learning/</loc>
-      <lastmod>2015-05-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://stes.io/tags/munich/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://stes.io/tags/neuroengineering/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://stes.io/project/</loc>
-      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://stes.io/publication/</loc>
-      <lastmod>2018-09-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://stes.io/tags/social/</loc>
-      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://stes.io/</loc>
-      <lastmod>2017-10-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://stes.io/tags/</loc>
-      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

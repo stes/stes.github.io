@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - 2019 Steffen Schneider</copyright>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://stes.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KI macht Schule</title>
+      <link>https://stes.io/project/kimachtschule/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.io/project/kimachtschule/</guid>
+      <description>KI macht Schule provides classes in AI &amp;amp; Machine Learning for German high school students</description>
+    </item>
     
     <item>
       <title>Smart Start Retreat</title>
@@ -18,7 +27,7 @@
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/smartstart/</guid>
-      <description></description>
+      <description>Retreat for scholars of the Smart Start Training Program in Computational Neuroscience</description>
     </item>
     
     <item>
@@ -27,7 +36,7 @@
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/neubtracker/</guid>
-      <description></description>
+      <description>An Imaging Platform for Neurobehavioral Research</description>
     </item>
     
     <item>
@@ -36,7 +45,7 @@
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/biomodels/</guid>
-      <description></description>
+      <description>Establishing fruitful collaborations between biologists, computer scientists and mathematicians in a yearly one-week retreat.</description>
     </item>
     
     <item>
@@ -45,7 +54,7 @@
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/db017/</guid>
-      <description>In an attempt to</description>
+      <description>Development of a fully autonomous racecar for the FSG Driverless competition in Hockenheim.</description>
     </item>
     
     <item>
@@ -54,7 +63,7 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/msne/</guid>
-      <description></description>
+      <description>M.Sc. Neuroengineering Student Blog with latest information about our study program and events.</description>
     </item>
     
     <item>
@@ -63,7 +72,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/eace04/</guid>
-      <description></description>
+      <description>Contributions include the design of electric control units</description>
     </item>
     
     <item>
@@ -72,7 +81,7 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/campus/</guid>
-      <description></description>
+      <description>Homepage der Campus Weggemeinschaft</description>
     </item>
     
     <item>
@@ -81,7 +90,7 @@
       <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/iluminate/</guid>
-      <description>Project Overview ILUMINATE (Innovative Lung Cancer Mouse Models recapitulating human immune response and Tumor-Stroma Exchange) develops a novel platform for integrated analysis of in-vivo models for preclinical evaluation of new compounds in oncology, including innovative therapeutic approaches in oncoimmunology. The goal is to provide innovative service models that cover the entire range of in-vivo research, including planning of the study experimental set up, data analysis, and comprehensive visual presentation of results.</description>
+      <description>ILUMINATE develops a novel platform for integrated analysis of in-vivo models for preclinical evaluation of new compounds in oncology, including innovative therapeutic approaches in oncoimmunology.</description>
     </item>
     
     <item>
@@ -90,7 +99,7 @@
       <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://stes.io/project/it4kids/</guid>
-      <description></description>
+      <description>IT4Kids provides computer science classes to elementary school pupils - Providing software, teaching materials and easy communication between schools and teaching students</description>
     </item>
     
   </channel>

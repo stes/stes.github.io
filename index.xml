@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steffen Schneider on Steffen Schneider</title>
@@ -7,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 - 2019 Steffen Schneider</copyright>
-    <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>KI macht Schule</title>
+      <link>https://stes.io/project/kimachtschule/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://stes.io/project/kimachtschule/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Task Generalization and Adaptation between Noisy Digit Datasets: An Empirical Study</title>
@@ -148,16 +156,6 @@
       
       <guid>https://stes.io/publication/compressive_sensing/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Improving Histopathological Tissue Classification with Transfer Learning and Unsupervised Pre-Training of Deep Neural Networks</title>
-      <link>https://stes.io/publication/bachelor_thesis/</link>
-      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/publication/bachelor_thesis/</guid>
-      <description>&lt;p&gt;If you are interested in reading the full text, please contact me &lt;a href=&#34;https://stes.io/&#34;&gt;via email&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
