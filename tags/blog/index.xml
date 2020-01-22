@@ -1,60 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Steffen Schneider</title>
+    <title>blog | Steffen Schneider</title>
     <link>https://stes.io/tags/blog/</link>
-    <description>Recent content in blog on Steffen Schneider</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 - 2019 Steffen Schneider</copyright>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://stes.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Smart Start Retreat</title>
-      <link>https://stes.io/project/smartstart/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/project/smartstart/</guid>
-      <description>Retreat for scholars of the Smart Start Training Program in Computational Neuroscience</description>
-    </item>
+      <atom:link href="https://stes.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>blog</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>blog</title>
+      <link>https://stes.io/tags/blog/</link>
+    </image>
     
     <item>
       <title>NeuBtracker</title>
       <link>https://stes.io/project/neubtracker/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/neubtracker/</guid>
-      <description>An Imaging Platform for Neurobehavioral Research</description>
+      <description></description>
     </item>
     
     <item>
       <title>Biomodels Retreat</title>
       <link>https://stes.io/project/biomodels/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/biomodels/</guid>
-      <description>Establishing fruitful collaborations between biologists, computer scientists and mathematicians in a yearly one-week retreat.</description>
+      <description></description>
     </item>
     
     <item>
       <title>MSNE Blog</title>
       <link>https://stes.io/project/msne/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/msne/</guid>
-      <description>M.Sc. Neuroengineering Student Blog with latest information about our study program and events.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Campus Weggemeinschaft</title>
       <link>https://stes.io/project/campus/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/campus/</guid>
-      <description>Homepage der Campus Weggemeinschaft</description>
+      <description></description>
     </item>
     
   </channel>

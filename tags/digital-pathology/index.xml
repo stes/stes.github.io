@@ -1,42 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>digital-pathology on Steffen Schneider</title>
+    <title>digital-pathology | Steffen Schneider</title>
     <link>https://stes.io/tags/digital-pathology/</link>
-    <description>Recent content in digital-pathology on Steffen Schneider</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 - 2019 Steffen Schneider</copyright>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://stes.io/tags/digital-pathology/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://stes.io/tags/digital-pathology/index.xml" rel="self" type="application/rss+xml" />
+    <description>digital-pathology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>digital-pathology</title>
+      <link>https://stes.io/tags/digital-pathology/</link>
+    </image>
     
     <item>
       <title>KI macht Schule</title>
       <link>https://stes.io/project/kimachtschule/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/kimachtschule/</guid>
-      <description>KI macht Schule provides classes in AI &amp;amp; Machine Learning for German high school students</description>
-    </item>
-    
-    <item>
-      <title>ILUMINATE</title>
-      <link>https://stes.io/project/iluminate/</link>
-      <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/project/iluminate/</guid>
-      <description>ILUMINATE develops a novel platform for integrated analysis of in-vivo models for preclinical evaluation of new compounds in oncology, including innovative therapeutic approaches in oncoimmunology.</description>
+      <description></description>
     </item>
     
     <item>
       <title>IT4Kids</title>
       <link>https://stes.io/project/it4kids/</link>
       <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/it4kids/</guid>
-      <description>IT4Kids provides computer science classes to elementary school pupils - Providing software, teaching materials and easy communication between schools and teaching students</description>
+      <description></description>
     </item>
     
   </channel>

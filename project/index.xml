@@ -1,105 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Steffen Schneider</title>
+    <title>Projects | Steffen Schneider</title>
     <link>https://stes.io/project/</link>
-    <description>Recent content in Projects on Steffen Schneider</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 - 2019 Steffen Schneider</copyright>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://stes.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://stes.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://stes.io/project/</link>
+    </image>
     
     <item>
       <title>KI macht Schule</title>
       <link>https://stes.io/project/kimachtschule/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/kimachtschule/</guid>
-      <description>KI macht Schule provides classes in AI &amp;amp; Machine Learning for German high school students</description>
-    </item>
-    
-    <item>
-      <title>Smart Start Retreat</title>
-      <link>https://stes.io/project/smartstart/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/project/smartstart/</guid>
-      <description>Retreat for scholars of the Smart Start Training Program in Computational Neuroscience</description>
+      <description></description>
     </item>
     
     <item>
       <title>NeuBtracker</title>
       <link>https://stes.io/project/neubtracker/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/neubtracker/</guid>
-      <description>An Imaging Platform for Neurobehavioral Research</description>
+      <description></description>
     </item>
     
     <item>
       <title>Biomodels Retreat</title>
       <link>https://stes.io/project/biomodels/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/biomodels/</guid>
-      <description>Establishing fruitful collaborations between biologists, computer scientists and mathematicians in a yearly one-week retreat.</description>
-    </item>
-    
-    <item>
-      <title>TUFast Driverless nb017</title>
-      <link>https://stes.io/project/db017/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/project/db017/</guid>
-      <description>Development of a fully autonomous racecar for the FSG Driverless competition in Hockenheim.</description>
+      <description></description>
     </item>
     
     <item>
       <title>MSNE Blog</title>
       <link>https://stes.io/project/msne/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/msne/</guid>
-      <description>M.Sc. Neuroengineering Student Blog with latest information about our study program and events.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Ecurie Aix eace04/05</title>
       <link>https://stes.io/project/eace04/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/eace04/</guid>
-      <description>Contributions include the design of electric control units</description>
+      <description></description>
     </item>
     
     <item>
       <title>Campus Weggemeinschaft</title>
       <link>https://stes.io/project/campus/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/campus/</guid>
-      <description>Homepage der Campus Weggemeinschaft</description>
-    </item>
-    
-    <item>
-      <title>ILUMINATE</title>
-      <link>https://stes.io/project/iluminate/</link>
-      <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/project/iluminate/</guid>
-      <description>ILUMINATE develops a novel platform for integrated analysis of in-vivo models for preclinical evaluation of new compounds in oncology, including innovative therapeutic approaches in oncoimmunology.</description>
+      <description></description>
     </item>
     
     <item>
       <title>IT4Kids</title>
       <link>https://stes.io/project/it4kids/</link>
       <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/it4kids/</guid>
-      <description>IT4Kids provides computer science classes to elementary school pupils - Providing software, teaching materials and easy communication between schools and teaching students</description>
+      <description></description>
     </item>
     
   </channel>

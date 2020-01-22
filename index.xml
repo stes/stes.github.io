@@ -1,28 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Steffen Schneider on Steffen Schneider</title>
+    <title>Steffen Schneider</title>
     <link>https://stes.io/</link>
-    <description>Recent content in Steffen Schneider on Steffen Schneider</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 - 2019 Steffen Schneider</copyright>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://stes.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steffen Schneider</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2020 23:20:39 +0100</lastBuildDate>
+    <image>
+      <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Steffen Schneider</title>
+      <link>https://stes.io/</link>
+    </image>
+    
+    <item>
+      <title>Test talk!</title>
+      <link>https://stes.io/talk/test/</link>
+      <pubDate>Tue, 21 Jan 2020 23:20:39 +0100</pubDate>
+      <guid>https://stes.io/talk/test/</guid>
+      <description>&lt;p&gt;Test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations</title>
+      <link>https://stes.io/publication/vqwav2vec/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/vqwav2vec/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>KI macht Schule</title>
       <link>https://stes.io/project/kimachtschule/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/kimachtschule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iron-Sequestering Nanocompartments as Multiplexed Electron Microscopy Gene Reporters</title>
+      <link>https://stes.io/publication/nano/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/nano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wav2vec: Unsupervised Pre-training for Speech Recognition</title>
+      <link>https://stes.io/publication/wav2vec/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/wav2vec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Task Generalization and Adaptation between Noisy Digit Datasets: An Empirical Study</title>
       <link>https://stes.io/publication/multitask/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 30 Sep 2018 23:13:52 +0100</pubDate>
       <guid>https://stes.io/publication/multitask/</guid>
       <description></description>
     </item>
@@ -31,17 +65,7 @@
       <title>Salad: A Toolbox for Semi-supervised Adaptive Learning Across Domains</title>
       <link>https://stes.io/publication/salad/</link>
       <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/publication/salad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smart Start Retreat</title>
-      <link>https://stes.io/project/smartstart/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/project/smartstart/</guid>
       <description></description>
     </item>
     
@@ -49,7 +73,6 @@
       <title>Towards Desynchronization Detection in Biosignals</title>
       <link>https://stes.io/publication/nipstimeseries/</link>
       <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/publication/nipstimeseries/</guid>
       <description></description>
     </item>
@@ -58,7 +81,6 @@
       <title>NeuBtracker</title>
       <link>https://stes.io/project/neubtracker/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/neubtracker/</guid>
       <description></description>
     </item>
@@ -67,7 +89,6 @@
       <title>NeuBtracker — imaging neurobehavioral dynamics in freely behaving fish</title>
       <link>https://stes.io/publication/neubtracker/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/publication/neubtracker/</guid>
       <description></description>
     </item>
@@ -76,66 +97,22 @@
       <title>Context-based Normalization of Histological Stains using Deep Convolutional Features</title>
       <link>https://stes.io/publication/stainnorm/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/publication/stainnorm/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Fully Convolutional Signal Transcription for Artifact Removal and Normalization</title>
-      <link>https://stes.io/publication/fcn_bernstein/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/publication/fcn_bernstein/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://stes.io/img/fig_bernstein.png&#34; alt=&#34;A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve&#34; /&gt;
-&lt;strong&gt;Figure 1&lt;/strong&gt;: A. Proposed WaveNet-inspired network architecture. Using recordings from ECG, EOG and EMG recordings as context signals, the network generates an EEG sequence matching the context signals. B. Demonstration of artifact removal C. Network learning curve&lt;/p&gt;
-
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;[1] Oord, Aaron van den, et al. &amp;quot;Wavenet: A generative model for raw audio.&amp;quot; arXiv preprint arXiv:1609.03499 (2016).
-[2] O&#39;reilly, Christian, et al. &amp;quot;Montreal Archive of Sleep Studies: an open‐access resource for instrument benchmarking and exploratory research.&amp;quot; Journal of sleep research 23.6 (2014): 628-635., 10.1111/jsr.12169
-[3] Gal, Yarin. Uncertainty in deep learning. Diss. PhD thesis, University of Cambridge, 2016.
-[4] Massetani, Roberto, et al. &amp;quot;Alteration of cardiac function in patients with temporal lobe epilepsy: different roles of EEG‐ECG monitoring and spectral analysis of RR variability.&amp;quot; Epilepsia 38.3 (1997): 363-369., 10.1111/j.1528-1157.1997.tb01129.x
-&lt;/code&gt;&lt;/pre&gt;
-</description>
     </item>
     
     <item>
       <title>Biomodels Retreat</title>
       <link>https://stes.io/project/biomodels/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/biomodels/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Building Robust Deep Networks for Medical Data Analysis</title>
-      <link>https://stes.io/publication/hbp/</link>
-      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/publication/hbp/</guid>
-      <description>&lt;p&gt;This talk was given in at the 4th HBP Summer School on Future Computing Brain Science and Artificial Intelligence in Obergurgle, Austria.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TUFast Driverless nb017</title>
-      <link>https://stes.io/project/db017/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/project/db017/</guid>
-      <description>&lt;p&gt;In an attempt to&lt;/p&gt;
-</description>
     </item>
     
     <item>
       <title>MSNE Blog</title>
       <link>https://stes.io/project/msne/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/msne/</guid>
       <description></description>
     </item>
@@ -144,17 +121,23 @@
       <title>Ecurie Aix eace04/05</title>
       <link>https://stes.io/project/eace04/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://stes.io/project/eace04/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Deep Learning Approach to Compressive Sensing</title>
-      <link>https://stes.io/publication/compressive_sensing/</link>
-      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://stes.io/publication/compressive_sensing/</guid>
+      <title>Campus Weggemeinschaft</title>
+      <link>https://stes.io/project/campus/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/project/campus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT4Kids</title>
+      <link>https://stes.io/project/it4kids/</link>
+      <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/project/it4kids/</guid>
       <description></description>
     </item>
     

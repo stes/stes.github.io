@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steffen Schneider</title>
+    <link>https://stes.io/authors/steffen-schneider/</link>
+      <atom:link href="https://stes.io/authors/steffen-schneider/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steffen Schneider</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Steffen Schneider</title>
+      <link>https://stes.io/authors/steffen-schneider/</link>
+    </image>
+    
+    <item>
+      <title>vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations</title>
+      <link>https://stes.io/publication/vqwav2vec/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/vqwav2vec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iron-Sequestering Nanocompartments as Multiplexed Electron Microscopy Gene Reporters</title>
+      <link>https://stes.io/publication/nano/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/nano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wav2vec: Unsupervised Pre-training for Speech Recognition</title>
+      <link>https://stes.io/publication/wav2vec/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/wav2vec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Task Generalization and Adaptation between Noisy Digit Datasets: An Empirical Study</title>
+      <link>https://stes.io/publication/multitask/</link>
+      <pubDate>Sun, 30 Sep 2018 23:13:52 +0100</pubDate>
+      <guid>https://stes.io/publication/multitask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salad: A Toolbox for Semi-supervised Adaptive Learning Across Domains</title>
+      <link>https://stes.io/publication/salad/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/salad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Desynchronization Detection in Biosignals</title>
+      <link>https://stes.io/publication/nipstimeseries/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/nipstimeseries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuBtracker — imaging neurobehavioral dynamics in freely behaving fish</title>
+      <link>https://stes.io/publication/neubtracker/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/neubtracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-based Normalization of Histological Stains using Deep Convolutional Features</title>
+      <link>https://stes.io/publication/stainnorm/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/stainnorm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

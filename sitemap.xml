@@ -1,271 +1,391 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-      <loc>https://stes.io/project/kimachtschule/</loc>
-      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/talk/</loc>
+    <lastmod>2020-01-21T23:20:39+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/project/</loc>
-      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/</loc>
+    <lastmod>2020-01-21T23:20:39+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/</loc>
-      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/talk/test/</loc>
+    <lastmod>2020-01-21T23:20:39+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/tags/</loc>
-      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/alexei-baevski/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/tags/deep-learning/</loc>
-      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/</loc>
+    <lastmod>2020-01-21T23:13:52+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/tags/digital-pathology/</loc>
-      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/michael-auli/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/tags/machine-learning/</loc>
-      <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/publication/</loc>
+    <lastmod>2020-01-21T23:13:52+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/publication/multitask/</loc>
-      <lastmod>2018-09-30T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/steffen-schneider/</loc>
+    <lastmod>2020-01-21T23:13:52+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/publication/</loc>
-      <lastmod>2018-09-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/publication/vqwav2vec/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/publication/salad/</loc>
-      <lastmod>2018-09-30T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/tags/deep-learning/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/project/smartstart/</loc>
-      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/tags/digital-pathology/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/tags/blog/</loc>
-      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/project/kimachtschule/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/tags/social/</loc>
-      <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/tags/machine-learning/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/publication/nipstimeseries/</loc>
-      <lastmod>2017-12-04T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/project/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/project/neubtracker/</loc>
-      <lastmod>2017-10-02T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/tags/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/publication/neubtracker/</loc>
-      <lastmod>2017-10-02T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/axel-walch/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/publication/stainnorm/</loc>
-      <lastmod>2017-09-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/fabian-schneider/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/publication/fcn_bernstein/</loc>
-      <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/felix-sigmund/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/project/biomodels/</loc>
-      <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/gil-gregor-westmeyer/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/publication/hbp/</loc>
-      <lastmod>2017-06-18T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/hendrik-dietz/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/project/db017/</loc>
-      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/publication/nano/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/tags/demo/</loc>
-      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/jesus-pujol-marti/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/project/msne/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/maria-v-efremova/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/tags/munich/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/martina-schifferer/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/tags/neuroengineering/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/massimo-kube/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/project/eace04/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/michaela-aichler/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/publication/compressive_sensing/</loc>
-      <lastmod>2016-04-26T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/susanne-pettinger/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/publication/bachelor_thesis/</loc>
-      <lastmod>2016-04-26T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/thomas-misgeld/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/project/campus/</loc>
-      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/ronan-collobert/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/project/iluminate/</loc>
-      <lastmod>2015-05-31T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/publication/wav2vec/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/project/it4kids/</loc>
-      <lastmod>2015-05-31T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/alexander-s.-ecker/</loc>
+    <lastmod>2020-01-21T23:13:52+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-      <loc>https://stes.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://stes.io/authors/jakob-h.-macke/</loc>
+    <lastmod>2020-01-21T23:13:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/matthias-bethge/</loc>
+    <lastmod>2020-01-21T23:13:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/publication/multitask/</loc>
+    <lastmod>2020-01-21T23:13:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/publication/salad/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/akara-supratak/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/hao-dong/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/ling-li/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/publication/nipstimeseries/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/yike-guo/</loc>
+    <lastmod>2017-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/ahne-myklatun/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/anca-stefanoiu/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/andriy-chmyrov/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/anja-stelzl/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/antonella-lauri/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/tags/blog/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/carlos-cruz-perez/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/gil-g-westmeyer/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/hongbo-jia/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/maximilian-koch/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/michele-cappetta/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/project/neubtracker/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/publication/neubtracker/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/panagiotis-symvoulidis/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/sabine-renninger/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/tags/social/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/tobias-lasser/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/vasilis-ntziachristos/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/wolfgang-wurst/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/anne-grote/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/publication/stainnorm/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/daniel-bug/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/dorit-merhof/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/eva-oswald/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/friedrich-feuerhake/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/julia-schuler/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/project/biomodels/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/project/msne/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/tags/munich/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/tags/neuroengineering/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/project/eace04/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/project/campus/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/project/it4kids/</loc>
+    <lastmod>2015-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/publication_types/</loc>
+  </url>
   
 </urlset>

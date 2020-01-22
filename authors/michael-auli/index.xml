@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Auli | Steffen Schneider</title>
+    <link>https://stes.io/authors/michael-auli/</link>
+      <atom:link href="https://stes.io/authors/michael-auli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Auli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael Auli</title>
+      <link>https://stes.io/authors/michael-auli/</link>
+    </image>
+    
+    <item>
+      <title>vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations</title>
+      <link>https://stes.io/publication/vqwav2vec/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/vqwav2vec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wav2vec: Unsupervised Pre-training for Speech Recognition</title>
+      <link>https://stes.io/publication/wav2vec/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/wav2vec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
