@@ -3,12 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stes.io/talk/</loc>
-    <lastmod>2020-01-21T23:20:39+01:00</lastmod>
+    <loc>https://stes.io/publication/primer/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/alexander-mathis/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/jessy-lauer/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/mackenzie-mathis/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/publication/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://stes.io/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/steffen-schneider/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/evgenia-rusak/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/publication/batchadapt/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/luisa-eck/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/matthias-bethge/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/oliver-bringmann/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/authors/wieland-brendel/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stes.io/talk/</loc>
     <lastmod>2020-01-21T23:20:39+01:00</lastmod>
   </url>
   
@@ -23,23 +88,8 @@
   </url>
   
   <url>
-    <loc>https://stes.io/authors/</loc>
-    <lastmod>2020-01-21T23:13:52+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://stes.io/authors/michael-auli/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stes.io/publication/</loc>
-    <lastmod>2020-01-21T23:13:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stes.io/authors/steffen-schneider/</loc>
-    <lastmod>2020-01-21T23:13:52+01:00</lastmod>
   </url>
   
   <url>
@@ -159,11 +209,6 @@
   
   <url>
     <loc>https://stes.io/authors/jakob-h.-macke/</loc>
-    <lastmod>2020-01-21T23:13:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stes.io/authors/matthias-bethge/</loc>
     <lastmod>2020-01-21T23:13:52+01:00</lastmod>
   </url>
   

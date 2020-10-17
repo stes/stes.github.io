@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Steffen Schneider</title>
+    <title>Steffen Schneider* | Steffen Schneider</title>
     <link>https://stes.io/authors/steffen-schneider/</link>
       <atom:link href="https://stes.io/authors/steffen-schneider/index.xml" rel="self" type="application/rss+xml" />
-    <description>Steffen Schneider</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <description>Steffen Schneider*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Steffen Schneider</title>
+      <title>Steffen Schneider*</title>
       <link>https://stes.io/authors/steffen-schneider/</link>
     </image>
+    
+    <item>
+      <title>A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives</title>
+      <link>https://stes.io/publication/primer/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/primer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving robustness against common corruptions by covariate shift adaptation</title>
+      <link>https://stes.io/publication/batchadapt/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/batchadapt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations</title>

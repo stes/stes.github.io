@@ -5,12 +5,20 @@
     <link>https://stes.io/authors/matthias-bethge/</link>
       <atom:link href="https://stes.io/authors/matthias-bethge/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthias Bethge</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Sep 2018 23:13:52 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Matthias Bethge</title>
       <link>https://stes.io/authors/matthias-bethge/</link>
     </image>
+    
+    <item>
+      <title>Improving robustness against common corruptions by covariate shift adaptation</title>
+      <link>https://stes.io/publication/batchadapt/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/batchadapt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Task Generalization and Adaptation between Noisy Digit Datasets: An Empirical Study</title>
