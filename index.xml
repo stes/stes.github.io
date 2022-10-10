@@ -5,12 +5,28 @@
     <link>https://stes.io/</link>
       <atom:link href="https://stes.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Steffen Schneider</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Steffen Schneider</title>
       <link>https://stes.io/</link>
     </image>
+    
+    <item>
+      <title>Learnable latent embeddings for joint behavioral and neural analysis</title>
+      <link>https://stes.io/publication/cebra/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/cebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Learning Inverts the Data Generating Process</title>
+      <link>https://stes.io/publication/cl_ica/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/cl_ica/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives</title>
