@@ -62,12 +62,6 @@
     <loc>https://stes.io/authors/oliver-bringmann/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stes.io/talk/</loc>
-    <lastmod>2020-01-21T23:20:39+01:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/talk/test/</loc>
-    <lastmod>2020-01-21T23:20:39+01:00</lastmod>
-  </url><url>
     <loc>https://stes.io/authors/alexei-baevski/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -271,10 +265,22 @@
   </url><url>
     <loc>https://stes.io/authors/admin/</loc>
   </url><url>
+    <loc>https://stes.io/talk/2012_neurips/</loc>
+  </url><url>
+    <loc>https://stes.io/talk/2023_japan/</loc>
+  </url><url>
+    <loc>https://stes.io/talk/2207_neuromatch/</loc>
+  </url><url>
     <loc>https://stes.io/categories/</loc>
+  </url><url>
+    <loc>https://stes.io/talk/2302_mpfi-copy/</loc>
+  </url><url>
+    <loc>https://stes.io/talk/2302_mpfi/</loc>
   </url><url>
     <loc>https://stes.io/post/</loc>
   </url><url>
     <loc>https://stes.io/publication_types/</loc>
+  </url><url>
+    <loc>https://stes.io/talk/</loc>
   </url>
 </urlset>

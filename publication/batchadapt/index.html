@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Today&#39;s state-of-the-art machine vision models are vulnerable to image corruptions like blurring or compression artefacts, limiting their performance in many real-world applications. We here argue that popular benchmarks to measure model robustness against common corruptions (like ImageNet-C) underestimate model robustness in many (but not all) application scenarios. The key insight is that in many scenarios, multiple unlabeled examples of the corruptions are available and can be used for unsupervised online adaptation. Replacing the activation statistics estimated by batch normalization on the training set with the statistics of the corrupted images consistently improves the robustness across 25 different popular computer vision models. Using the corrected statistics, ResNet-50 reaches 62.2% mCE on ImageNet-C compared to 76.7% without adaptation. With the more robust AugMix model, we improve the state of the art from 56.5% mCE to 51.0% mCE. Even adapting to a single sample improves robustness for the ResNet-50 and AugMix models, and 32 samples are sufficient to improve the current state of the art for a ResNet-50 architecture. We argue that results with adapted statistics should be included whenever reporting scores in corruption benchmarks and other out-of-distribution generalization settings.">
+  <meta name="description" content="Adapting batch norm statistics of trained computer vision models considerably increases robustness at test-time.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://stes.io/publication/batchadapt/">
@@ -233,8 +233,8 @@
   
   <meta property="og:site_name" content="Steffen Schneider">
   <meta property="og:url" content="https://stes.io/publication/batchadapt/">
-  <meta property="og:title" content="Improving robustness against common corruptions by covariate shift adaptation | Steffen Schneider">
-  <meta property="og:description" content="Today&#39;s state-of-the-art machine vision models are vulnerable to image corruptions like blurring or compression artefacts, limiting their performance in many real-world applications. We here argue that popular benchmarks to measure model robustness against common corruptions (like ImageNet-C) underestimate model robustness in many (but not all) application scenarios. The key insight is that in many scenarios, multiple unlabeled examples of the corruptions are available and can be used for unsupervised online adaptation. Replacing the activation statistics estimated by batch normalization on the training set with the statistics of the corrupted images consistently improves the robustness across 25 different popular computer vision models. Using the corrected statistics, ResNet-50 reaches 62.2% mCE on ImageNet-C compared to 76.7% without adaptation. With the more robust AugMix model, we improve the state of the art from 56.5% mCE to 51.0% mCE. Even adapting to a single sample improves robustness for the ResNet-50 and AugMix models, and 32 samples are sufficient to improve the current state of the art for a ResNet-50 architecture. We argue that results with adapted statistics should be included whenever reporting scores in corruption benchmarks and other out-of-distribution generalization settings."><meta property="og:image" content="https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
+  <meta property="og:title" content="Improving Robustness against Common Corruptions by Covariate Shift Adaptation | Steffen Schneider">
+  <meta property="og:description" content="Adapting batch norm statistics of trained computer vision models considerably increases robustness at test-time."><meta property="og:image" content="https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
@@ -266,7 +266,7 @@
     "@type": "WebPage",
     "@id": "https://stes.io/publication/batchadapt/"
   },
-  "headline": "Improving robustness against common corruptions by covariate shift adaptation",
+  "headline": "Improving Robustness against Common Corruptions by Covariate Shift Adaptation",
   
   "datePublished": "2020-06-30T00:00:00Z",
   "dateModified": "2020-06-30T00:00:00Z",
@@ -284,7 +284,7 @@
       "url": "img/https://stes.io/"
     }
   },
-  "description": "Today's state-of-the-art machine vision models are vulnerable to image corruptions like blurring or compression artefacts, limiting their performance in many real-world applications. We here argue that popular benchmarks to measure model robustness against common corruptions (like ImageNet-C) underestimate model robustness in many (but not all) application scenarios. The key insight is that in many scenarios, multiple unlabeled examples of the corruptions are available and can be used for unsupervised online adaptation. Replacing the activation statistics estimated by batch normalization on the training set with the statistics of the corrupted images consistently improves the robustness across 25 different popular computer vision models. Using the corrected statistics, ResNet-50 reaches 62.2% mCE on ImageNet-C compared to 76.7% without adaptation. With the more robust AugMix model, we improve the state of the art from 56.5% mCE to 51.0% mCE. Even adapting to a single sample improves robustness for the ResNet-50 and AugMix models, and 32 samples are sufficient to improve the current state of the art for a ResNet-50 architecture. We argue that results with adapted statistics should be included whenever reporting scores in corruption benchmarks and other out-of-distribution generalization settings."
+  "description": "Adapting batch norm statistics of trained computer vision models considerably increases robustness at test-time."
 }
 </script>
 
@@ -332,7 +332,7 @@
 
 
 
-  <title>Improving robustness against common corruptions by covariate shift adaptation | Steffen Schneider</title>
+  <title>Improving Robustness against Common Corruptions by Covariate Shift Adaptation | Steffen Schneider</title>
 
 </head>
 
@@ -601,7 +601,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Improving robustness against common corruptions by covariate shift adaptation</h1>
+  <h1>Improving Robustness against Common Corruptions by Covariate Shift Adaptation</h1>
 
   
 
@@ -752,7 +752,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Forthcoming in Proc. of NeurIPS 2020</div>
+          <div class="col-12 col-md-9">NeurIPS 2020</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -783,7 +783,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://stes.io/publication/batchadapt/&amp;text=Improving%20robustness%20against%20common%20corruptions%20by%20covariate%20shift%20adaptation" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://stes.io/publication/batchadapt/&amp;text=Improving%20Robustness%20against%20Common%20Corruptions%20by%20Covariate%20Shift%20Adaptation" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -796,7 +796,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://stes.io/publication/batchadapt/&amp;t=Improving%20robustness%20against%20common%20corruptions%20by%20covariate%20shift%20adaptation" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://stes.io/publication/batchadapt/&amp;t=Improving%20Robustness%20against%20Common%20Corruptions%20by%20Covariate%20Shift%20Adaptation" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -809,7 +809,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Improving%20robustness%20against%20common%20corruptions%20by%20covariate%20shift%20adaptation&amp;body=https://stes.io/publication/batchadapt/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Improving%20Robustness%20against%20Common%20Corruptions%20by%20Covariate%20Shift%20Adaptation&amp;body=https://stes.io/publication/batchadapt/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -822,7 +822,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://stes.io/publication/batchadapt/&amp;title=Improving%20robustness%20against%20common%20corruptions%20by%20covariate%20shift%20adaptation" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://stes.io/publication/batchadapt/&amp;title=Improving%20Robustness%20against%20Common%20Corruptions%20by%20Covariate%20Shift%20Adaptation" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -835,7 +835,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Improving%20robustness%20against%20common%20corruptions%20by%20covariate%20shift%20adaptation%20https://stes.io/publication/batchadapt/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Improving%20Robustness%20against%20Common%20Corruptions%20by%20Covariate%20Shift%20Adaptation%20https://stes.io/publication/batchadapt/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -848,7 +848,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://stes.io/publication/batchadapt/&amp;title=Improving%20robustness%20against%20common%20corruptions%20by%20covariate%20shift%20adaptation" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://stes.io/publication/batchadapt/&amp;title=Improving%20Robustness%20against%20Common%20Corruptions%20by%20Covariate%20Shift%20Adaptation" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

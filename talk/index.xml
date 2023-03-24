@@ -1,22 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Steffen Schneider</title>
+    <title>Talks | Steffen Schneider</title>
     <link>https://stes.io/talk/</link>
       <atom:link href="https://stes.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2020 23:20:39 +0100</lastBuildDate>
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks</title>
       <link>https://stes.io/talk/</link>
     </image>
     
     <item>
-      <title>Test talk!</title>
-      <link>https://stes.io/talk/test/</link>
-      <pubDate>Tue, 21 Jan 2020 23:20:39 +0100</pubDate>
-      <guid>https://stes.io/talk/test/</guid>
+      <title></title>
+      <link>https://stes.io/talk/2012_neurips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/talk/2012_neurips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stes.io/talk/2023_japan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/talk/2023_japan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stes.io/talk/2207_neuromatch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/talk/2207_neuromatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learnable latent embeddings for joint behavioral and neural analysis</title>
+      <link>https://stes.io/talk/2302_mpfi-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/talk/2302_mpfi-copy/</guid>
+      <description>&lt;p&gt;Test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learnable latent embeddings for joint behavioral and neural analysis</title>
+      <link>https://stes.io/talk/2302_mpfi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/talk/2302_mpfi/</guid>
       <description>&lt;p&gt;Test&lt;/p&gt;
 </description>
     </item>
