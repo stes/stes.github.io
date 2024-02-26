@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://stes.io/authors/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stes.io/publication/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stes.io/publication/thesis/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stes.io/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stes.io/authors/steffen-schneider/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stes.io/authors/jin-h-lee/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
@@ -12,12 +24,6 @@
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stes.io/authors/mackenzie-w-mathis/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/publication/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stes.io/authors/steffen-schneider/</loc>
@@ -71,24 +77,6 @@
     <loc>https://stes.io/publication/vqwav2vec/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stes.io/tags/deep-learning/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/tags/digital-pathology/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/project/kimachtschule/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/tags/machine-learning/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/project/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/tags/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://stes.io/authors/axel-walch/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -127,6 +115,9 @@
   </url><url>
     <loc>https://stes.io/authors/thomas-misgeld/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stes.io/authors/alexei-baevski/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stes.io/authors/ronan-collobert/</loc>
     <lastmod>2019-04-11T00:00:00+00:00</lastmod>
@@ -176,9 +167,6 @@
     <loc>https://stes.io/authors/antonella-lauri/</loc>
     <lastmod>2017-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stes.io/tags/blog/</loc>
-    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://stes.io/authors/carlos-cruz-perez/</loc>
     <lastmod>2017-10-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -194,9 +182,6 @@
     <loc>https://stes.io/authors/michele-cappetta/</loc>
     <lastmod>2017-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stes.io/project/neubtracker/</loc>
-    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://stes.io/publication/neubtracker/</loc>
     <lastmod>2017-10-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -204,9 +189,6 @@
     <lastmod>2017-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stes.io/authors/sabine-renninger/</loc>
-    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/tags/social/</loc>
     <lastmod>2017-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stes.io/authors/tobias-lasser/</loc>
@@ -239,30 +221,6 @@
     <loc>https://stes.io/authors/julia-schuler/</loc>
     <lastmod>2017-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stes.io/project/biomodels/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/project/msne/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/tags/munich/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/tags/neuroengineering/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/project/eace04/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/project/campus/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://stes.io/project/it4kids/</loc>
-    <lastmod>2015-05-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://stes.io/authors/admin/</loc>
   </url><url>
     <loc>https://stes.io/talk/2012_neurips/</loc>
@@ -280,6 +238,8 @@
     <loc>https://stes.io/post/</loc>
   </url><url>
     <loc>https://stes.io/publication_types/</loc>
+  </url><url>
+    <loc>https://stes.io/tags/</loc>
   </url><url>
     <loc>https://stes.io/talk/</loc>
   </url>

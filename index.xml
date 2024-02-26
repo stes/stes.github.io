@@ -5,12 +5,20 @@
     <link>https://stes.io/</link>
       <atom:link href="https://stes.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Steffen Schneider</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Steffen Schneider</title>
       <link>https://stes.io/</link>
     </image>
+    
+    <item>
+      <title>Robust machine learning for neuroscientific inference</title>
+      <link>https://stes.io/publication/thesis/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/publication/thesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learnable Latent Embeddings for Joint Behavioral and Neural Analysis</title>
@@ -49,14 +57,6 @@
       <link>https://stes.io/publication/vqwav2vec/</link>
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://stes.io/publication/vqwav2vec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KI macht Schule</title>
-      <link>https://stes.io/project/kimachtschule/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/kimachtschule/</guid>
       <description></description>
     </item>
     
@@ -101,14 +101,6 @@
     </item>
     
     <item>
-      <title>NeuBtracker</title>
-      <link>https://stes.io/project/neubtracker/</link>
-      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/neubtracker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>NeuBtracker — imaging neurobehavioral dynamics in freely behaving fish</title>
       <link>https://stes.io/publication/neubtracker/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
@@ -121,46 +113,6 @@
       <link>https://stes.io/publication/stainnorm/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://stes.io/publication/stainnorm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biomodels Retreat</title>
-      <link>https://stes.io/project/biomodels/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/biomodels/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MSNE Blog</title>
-      <link>https://stes.io/project/msne/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/msne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecurie Aix eace04/05</title>
-      <link>https://stes.io/project/eace04/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/eace04/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Campus Weggemeinschaft</title>
-      <link>https://stes.io/project/campus/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/campus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IT4Kids</title>
-      <link>https://stes.io/project/it4kids/</link>
-      <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/it4kids/</guid>
       <description></description>
     </item>
     

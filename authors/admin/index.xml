@@ -12,5 +12,24 @@
       <link>https://stes.io/authors/admin/</link>
     </image>
     
+    <item>
+      <title></title>
+      <link>https://stes.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://stes.io/authors/admin/</guid>
+      <description>&lt;p&gt;My goal is to build machine learning tools and statistical methods for decompiling intelligent behavior.
+In my &lt;a href=&#34;https://dynamical-inference.ai&#34;&gt;research group at Helmholtz Munich&lt;/a&gt;, we develop machine learning algorithms for representation learning and inference of nonlinear system dynamics, study how large and multi-modal biological datasets can be compressed into foundation models, and study their mechanistic interpretability.&lt;/p&gt;
+&lt;p&gt;If you are looking for opportunities for a position as PhD student, postdoc, research engineer, research assistant, or an internship, Bachelor or Master&amp;rsquo;s thesis, have a look &lt;a href=&#34;https://stes.io/#publications&#34;&gt;at my past work&lt;/a&gt; and &lt;a href=&#34;https://dynamical-inference.ai/join/&#34;&gt;student projects&lt;/a&gt; and &lt;a href=&#34;https://dynamical-inference.ai/join/&#34;&gt;ping me&lt;/a&gt; if you&amp;rsquo;re interested in working with us.&lt;/p&gt;
+&lt;p&gt;I pursued my doctoral studies at the &lt;a href=&#34;https://www.campusbiotech.ch/en&#34;&gt;Swiss Federal Institute of Technology Lausanne (EPFL)&lt;/a&gt; and the &lt;a href=&#34;https://imprs.is.mpg.de/&#34;&gt;International Max Planck Research School for Intelligent Systems&lt;/a&gt;, advised by &lt;a href=&#34;http://mousemotorlab.org&#34;&gt;Mackenzie Mathis&lt;/a&gt; and &lt;a href=&#34;http://bethgelab.org&#34;&gt;Matthias Bethge&lt;/a&gt;
+in the &lt;a href=&#34;https://ellis.eu/en/projects/adaptation-and-robustness-in-brains-and-machines&#34;&gt;ELLIS PhD &amp;amp; PostDoc program&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;During my PhD, I also worked as a Research Scientist Intern advised by &lt;a href=&#34;https://lvdmaaten.github.io/&#34;&gt;Laurens van der Maaten&lt;/a&gt; and &lt;a href=&#34;https://imisra.github.io/&#34;&gt;Ishan Misra&lt;/a&gt; on multimodal representation learning in the FAIR team at Meta NYC,
+and at Amazon Web Services in Tübingen as an Applied Science Intern where I worked on &lt;a href=&#34;https://domainadaptation.org/selflearning&#34;&gt;self-learning&lt;/a&gt; and &lt;a href=&#34;https://arxiv.org/abs/2110.06562&#34;&gt;object centric representations&lt;/a&gt; with &lt;a href=&#34;http://gehler.io/&#34;&gt;Peter Gehler&lt;/a&gt;, &lt;a href=&#34;https://www.is.mpg.de/~bs&#34;&gt;Bernhard Schölkopf&lt;/a&gt; and &lt;a href=&#34;http://bethgelab.org&#34;&gt;Matthias Bethge&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prior to starting my PhD, I worked on &lt;a href=&#34;https://arxiv.org/abs/1904.05862&#34;&gt;wav2vec&lt;/a&gt; and &lt;a href=&#34;https://arxiv.org/abs/1910.05453&#34;&gt;vq-wav2vec&lt;/a&gt;, two self-supervised representation learning algorithms for speech processing with &lt;a href=&#34;http://michaelauli.github.io&#34;&gt;Michael Auli&lt;/a&gt;, &lt;a href=&#34;https://research.fb.com/people/baevski-alexei/&#34;&gt;Alexei Baevski&lt;/a&gt; and &lt;a href=&#34;https://ronan.collobert.com/&#34;&gt;Ronan Collobert&lt;/a&gt; at &lt;a href=&#34;https://research.fb.com/category/facebook-ai-research/&#34;&gt;Facebook AI Research&lt;/a&gt; in Menlo Park, CA.&lt;/p&gt;
+&lt;p&gt;Aside from my research, I&amp;rsquo;m a strong supporter of exposing children to modern computer science topics early on during their school education.
+That&amp;rsquo;s why I co-founded and advised &lt;a href=&#34;https://it-for-kids.org&#34;&gt;IT4Kids&lt;/a&gt; to teach CS in elementary school, &lt;a href=&#34;http://ki-macht-schule.de&#34;&gt;KI macht Schule&lt;/a&gt; to teach AI and Machine Learning fundamentals in high school and helped organizing the &lt;a href=&#34;https://bw-ki.de&#34;&gt;German National Competition in AI&lt;/a&gt; for high school students.
+If you want to join &lt;a href=&#34;https://ki-macht-schule.de/team&#34;&gt;our team at KI macht Schule&lt;/a&gt; and bring AI education to every school in Germany, Austria and Switzerland, don&amp;rsquo;t hesitate to reach out!&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

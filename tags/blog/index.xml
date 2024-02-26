@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog | Steffen Schneider</title>
-    <link>https://stes.io/tags/blog/</link>
-      <atom:link href="https://stes.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
-    <description>blog</description>
+    <title>Blog | Steffen Schneider</title>
+    <link>http://localhost:1313/tags/blog/</link>
+      <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>blog</title>
-      <link>https://stes.io/tags/blog/</link>
+      <url>http://localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Blog</title>
+      <link>http://localhost:1313/tags/blog/</link>
     </image>
     
     <item>
       <title>NeuBtracker</title>
-      <link>https://stes.io/project/neubtracker/</link>
+      <link>http://localhost:1313/project/neubtracker/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/neubtracker/</guid>
+      <guid>http://localhost:1313/project/neubtracker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biomodels Retreat</title>
-      <link>https://stes.io/project/biomodels/</link>
+      <link>http://localhost:1313/project/biomodels/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/biomodels/</guid>
+      <guid>http://localhost:1313/project/biomodels/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSNE Blog</title>
-      <link>https://stes.io/project/msne/</link>
+      <link>http://localhost:1313/project/msne/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/msne/</guid>
+      <guid>http://localhost:1313/project/msne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Campus Weggemeinschaft</title>
-      <link>https://stes.io/project/campus/</link>
+      <link>http://localhost:1313/project/campus/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/campus/</guid>
+      <guid>http://localhost:1313/project/campus/</guid>
       <description></description>
     </item>
     

@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>deep-learning | Steffen Schneider</title>
-    <link>https://stes.io/tags/deep-learning/</link>
-      <atom:link href="https://stes.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>deep-learning</description>
+    <title>Deep-Learning | Steffen Schneider</title>
+    <link>http://localhost:1313/tags/deep-learning/</link>
+      <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep-Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stes.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>deep-learning</title>
-      <link>https://stes.io/tags/deep-learning/</link>
+      <url>http://localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep-Learning</title>
+      <link>http://localhost:1313/tags/deep-learning/</link>
     </image>
     
     <item>
       <title>KI macht Schule</title>
-      <link>https://stes.io/project/kimachtschule/</link>
+      <link>http://localhost:1313/project/kimachtschule/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/kimachtschule/</guid>
+      <guid>http://localhost:1313/project/kimachtschule/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IT4Kids</title>
-      <link>https://stes.io/project/it4kids/</link>
+      <link>http://localhost:1313/project/it4kids/</link>
       <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://stes.io/project/it4kids/</guid>
+      <guid>http://localhost:1313/project/it4kids/</guid>
       <description></description>
     </item>
     
